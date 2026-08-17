@@ -215,6 +215,8 @@ Um exemplo é o Pokemon Go que uns tempos atrás se torno uma "febre" onde se vi
 
 #### Metaverso  
 
+PodCast VisHub-FURB <https://vishub.furb.br/post/t1p8-roberto-c-pereira-e-jan-peter-findeiss-ntt-data>  
+
 Metaverso é a terminologia utilizada para indicar um tipo de [mundo virtual](#mundo-virtual "mundo virtual") que tenta replicar a realidade através de dispositivos digitais. É um espaço coletivo e virtual compartilhado, constituído pela soma de "realidade virtual", "realidade aumentada" e "Internet". Este termo foi utilizado pela **primeira vez em 1992**, e exemplos mais recentes são os jogos [VRChat](https://en.wikipedia.org/wiki/VRChat "VRChat"), [Second Life](https://pt.wikipedia.org/wiki/Second_Life "Second Life"), [Roblox](https://pt.wikipedia.org/wiki/Roblox "Roblox"), [Fortnite](https://pt.wikipedia.org/wiki/Fortnite "Fortnite"), [Facebook Meta](https://about.facebook.com/br/meta/ "Facebook Meta"), entre outros.  
 
 [Second Life](https://pt.wikipedia.org/wiki/Second_Life "Second Life") é um **jogo de 2003** criado pela Linden Lab. O propósito do [Second Life](https://pt.wikipedia.org/wiki/Second_Life "Second Life") era de criar uma realidade paralela onde usuários poderiam jogar, socializar, trabalhar, comprar e vender propriedades, entre outras atividades. Houve muito interesse nos primeiros anos do jogo, com cobertura jornalística do Estadão no jogo, exposições do Itaú Cultural e apresentação de bandas.  
@@ -295,6 +297,11 @@ Imagem representa o uso de dois padrões de cores para gerar o efeito [Anaglifo]
 
 O modelo mais "barato" de óculos que explora a Estereoscopia com o [Anaglifo](#anaglifo "Anaglifo").  
 ![Exemplo óculos Anaglifo](./RealidadeVirtual_imgs/Anaglifo_Oculos.png "Exemplo óculos Anaglifo")  
+
+### Arquiteturas de sistemas
+
+![RenderSensorial](RenderSensorial.png)  
+[Fonte: Tori, Hounsell (2020)](./RealidadeVirtual_imgs/Conceitos-rv-ra.pdf)  
 
 ### Tipos de Visualizações
 
