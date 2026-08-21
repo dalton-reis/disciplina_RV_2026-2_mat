@@ -1,6 +1,6 @@
 # Realidade Virtual - Unidade 1  
 
-Algumas anotações feitas na aula: [aulaAnotacoes.md](./aulaAnotacoes.md "aulaAnotacoes.md")  
+Algumas anotações feitas na aula: [aulaAnotacoesQuadro](./aulaAnotacoesQuadro "aulaAnotacoesQuadro")  
 
 ## [atividadeAula.md](atividadeAula.md "atividadeAula.md")  
 
