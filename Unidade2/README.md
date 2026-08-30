@@ -23,6 +23,7 @@ Algumas anotações feitas na aula: [aulaAnotacoes.md](./aulaAnotacoes.md "aulaA
 
 <https://www.apple.com/apple-vision-pro/>  
 ![info_VisionPro](info_VisionPro.png)  
+![info_VisionPro_explodido](info_VisionPro_explodido.png)  
 
 ## ⏭ [Unidade 3](../Unidade3/README.md "Unidade 3")  
 
