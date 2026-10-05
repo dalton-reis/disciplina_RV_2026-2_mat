@@ -13,7 +13,7 @@ Era Unity3D, agora só Unity (não tinha parte 2D).
   - não mudar de versão durante o desenvolvimento do Projeto
   - todos da equipe terem a mesma versão
 
-**ATENÇÃO** usar a versão 6.000.0.29f1  
+**ATENÇÃO** usar a versão 6000.3.14f1  
 
 ## Editor
 
