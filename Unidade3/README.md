@@ -47,6 +47,8 @@ A [Unity_AssetSore] disponibiliza vários Assets gratuitos, mas também podem us
 ```text
   User: dalton@furb.br  
   Pwd : Furb2022  
+
+  Será enviado por SMS o token para Dalton.  
 ```
 
 ### Objetos e imagens gráficas
